@@ -1,0 +1,65 @@
+@charset "EUC-KR";
+
+/*--main--*//*--main--*//*--main--*//*--main--*//*--main--*/
+/*--main--*//*--main--*//*--main--*//*--main--*//*--main--*/
+a {
+	text-decoration: none;
+	color: black;
+	padding: 15px;
+	font-size: 30px;
+	border-radius: 10px 10px 10px 10px;
+}
+
+a:hover, over {
+	cursor: pointer;
+	background-color: purple;
+	color: white;
+}
+
+.a1 {
+	display: flex;
+	margin: 15px;
+	padding: 20px;
+}
+
+/*--main--*//*--main--*//*--main--*//*--main--*//*--main--*//*--main--*/
+/*--main--*//*--main--*//*--main--*//*--main--*//*--main--*//*--main--*/
+/*		login		*//*		login		*//*		login		*//*		login		*/
+/*		login		*//*		login		*//*		login		*//*		login		*/
+
+.contariner{
+    display: flex;
+    
+}
+
+.login_form{
+    
+    padding: 20px;
+    margin:  0 auto; 
+    width:400px;
+
+}
+h1{
+    text-align: center;
+}
+.login_a2{
+   margin: 10px;
+   padding: 10px;
+   display: flex ;
+   text-align: center;
+  
+   font-size: large;
+   width: auto;
+}
+.login_idtxt{
+    margin:  0 auto; 
+    width:auto;
+}
+.btn_color:hover, over{
+   cursor: pointer;
+   color: black;
+   background-color: lightgrey;
+}
+
+/*		login		*//*		login		*//*		login		*//*		login		*/
+/*		login		*//*		login		*//*		login		*//*		login		*/
